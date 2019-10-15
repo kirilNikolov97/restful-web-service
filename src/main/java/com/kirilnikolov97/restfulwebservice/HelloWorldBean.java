@@ -1,10 +1,10 @@
 package com.kirilnikolov97.restfulwebservice;
 
-public class HelloWorldBeanController {
+public class HelloWorldBean {
 
     private String message;
 
-    public HelloWorldBeanController(String message) {
+    public HelloWorldBean(String message) {
         this.message = message;
     }
 
