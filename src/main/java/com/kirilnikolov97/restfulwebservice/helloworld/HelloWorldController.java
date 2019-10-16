@@ -1,4 +1,4 @@
-package com.kirilnikolov97.restfulwebservice;
+package com.kirilnikolov97.restfulwebservice.helloworld;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
